@@ -1,0 +1,6 @@
+#countup p {
+    display: inline-block;
+    padding: 5px;
+    background: rgb(255, 255, 255);
+    margin: 0 0 20px;
+}
